@@ -1,0 +1,14 @@
+/Users/macbookair/MyConsoleApp/MYCONSOLEAPP/bin/Debug/net9.0/MYCONSOLEAPP
+/Users/macbookair/MyConsoleApp/MYCONSOLEAPP/bin/Debug/net9.0/MYCONSOLEAPP.deps.json
+/Users/macbookair/MyConsoleApp/MYCONSOLEAPP/bin/Debug/net9.0/MYCONSOLEAPP.runtimeconfig.json
+/Users/macbookair/MyConsoleApp/MYCONSOLEAPP/bin/Debug/net9.0/MYCONSOLEAPP.dll
+/Users/macbookair/MyConsoleApp/MYCONSOLEAPP/bin/Debug/net9.0/MYCONSOLEAPP.pdb
+/Users/macbookair/MyConsoleApp/MYCONSOLEAPP/obj/Debug/net9.0/MYCONSOLEAPP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/MyConsoleApp/MYCONSOLEAPP/obj/Debug/net9.0/MYCONSOLEAPP.AssemblyInfoInputs.cache
+/Users/macbookair/MyConsoleApp/MYCONSOLEAPP/obj/Debug/net9.0/MYCONSOLEAPP.AssemblyInfo.cs
+/Users/macbookair/MyConsoleApp/MYCONSOLEAPP/obj/Debug/net9.0/MYCONSOLEAPP.csproj.CoreCompileInputs.cache
+/Users/macbookair/MyConsoleApp/MYCONSOLEAPP/obj/Debug/net9.0/MYCONSOLEAPP.dll
+/Users/macbookair/MyConsoleApp/MYCONSOLEAPP/obj/Debug/net9.0/refint/MYCONSOLEAPP.dll
+/Users/macbookair/MyConsoleApp/MYCONSOLEAPP/obj/Debug/net9.0/MYCONSOLEAPP.pdb
+/Users/macbookair/MyConsoleApp/MYCONSOLEAPP/obj/Debug/net9.0/MYCONSOLEAPP.genruntimeconfig.cache
+/Users/macbookair/MyConsoleApp/MYCONSOLEAPP/obj/Debug/net9.0/ref/MYCONSOLEAPP.dll
